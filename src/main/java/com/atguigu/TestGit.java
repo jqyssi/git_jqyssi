@@ -2,11 +2,7 @@ package com.atguigu;
 
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("Hello Git!");
-        System.out.println("第一次修改！");
-        System.out.println("第二次修改！");
-        System.out.println("第四次修改！");
-        System.out.println("第5次修改！");
+        System.out.println("i am kk ,hello!");
 
     }
 }
